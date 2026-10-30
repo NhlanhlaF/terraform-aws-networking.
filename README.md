@@ -41,7 +41,7 @@ terraform destroy
 ![Terraform Plan](screenshots/03-terraform-plan.png)
 ![Terraform Apply](screenshots/04-terraform-apply.png)
 ![AWS VPC](screenshots/07-vpc.png)
-![AWS Subnets](screenshots/08-subnets.png)
+![AWS Subnets](screenshots/08-subnets[1].png)
 ![Public Route Table](screenshots/09-public-route-table.png)
 ![Private Route Table](screenshots/10-private-route-table.png)
 ![NAT Gateway](screenshots/11-nat-gateway.png)
